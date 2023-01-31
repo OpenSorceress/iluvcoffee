@@ -4,4 +4,6 @@ packages:
   - path: src
   - path: test
 language: javascript
+exclude:
+  - node_modules
 appmap_dir: tmp/appmap
